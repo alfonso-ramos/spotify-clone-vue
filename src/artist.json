@@ -1,0 +1,69 @@
+{
+    "name": "Arctic Monkeys",
+    "albumTitle": "AM",
+    "albumCover": "/images/albumCovers/albumCover.jpg",
+    "releaseYear": "2013",
+    "tracks": [
+        {
+            "id": 1,
+            "name": "Do I Wanna Know",
+            "path": "/songs/Do I Wanna Know.mp3"
+        },
+        {
+            "id": 2,
+            "name": "R U Mine",
+            "path": "/songs/R U Mine.mp3"
+        },
+        {
+            "id": 3,
+            "name": "One For The Road",
+            "path": "/songs/One for the Road.mp3"
+        },
+        {
+            "id": 4,
+            "name": "Arabella",
+            "path": "/songs/Arabella.mp3"
+        },
+        {
+            "id": 5,
+            "name": "I Want It All",
+            "path": "/songs/I Want It All.mp3"
+        },
+        {
+            "id": 6,
+            "name": "No. 1 Party Anthem",
+            "path": "/songs/No 1 Party Anthem.mp3"
+        },
+        {
+            "id": 7,
+            "name": "Mad Sounds",
+            "path": "/songs/Mad Sounds.mp3"
+        },
+        {
+            "id": 8,
+            "name": "Fireside",
+            "path": "/songs/Fireside.mp3"
+        },
+        {
+            "id": 9,
+            "name": "Why'd You Only Call Me When You're High",
+            "path": "/songs/Whyd You Only Call Me When Youre High.mp3"
+        },
+        {
+            "id": 10,
+            "name": "Snap Out Of It",
+            "path": "/songs/Snap Out of It.mp3"
+        },
+        {
+            "id": 11,
+            "name": "Knee Socks",
+            "path": "/songs/Knee Socks.mp3"
+        },
+        {
+            "id": 12,
+            "name": "I Wanna Be Yours",
+            "path": "/songs/I Wanna Be Yours.mp3"
+        }
+    ]
+}
+
